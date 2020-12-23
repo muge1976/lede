@@ -1,5 +1,4 @@
-欢迎来到Lean的Openwrt源码仓库！
-=
+
 Welcome to Lean's  git source of OpenWrt and packages
 =
 中文：如何编译自己需要的 OpenWrt 固件
@@ -34,7 +33,6 @@ sudo apt-get -y install build-essential asciidoc binutils bzip2 gawk gettext git
 
 本套代码保证肯定可以编译成功。里面包括了 R20 所有源代码，包括 IPK 的。
 
-你可以自由使用，但源码编译二次发布请注明我的 GitHub 仓库链接。谢谢合作！
 =
 
 二次编译：
