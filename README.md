@@ -31,8 +31,6 @@ sudo apt-get -y install build-essential asciidoc binutils bzip2 gawk gettext git
 
 本套代码保证肯定可以编译成功。里面包括了 R20 所有源代码，包括 IPK 的。
 
-=
-
 二次编译：
 ```bash
 cd lede
