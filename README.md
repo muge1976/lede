@@ -1,7 +1,5 @@
 
 Welcome to Lean's  git source of OpenWrt and packages
-=
-中文：如何编译自己需要的 OpenWrt 固件
 -
 注意：
 -
